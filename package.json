@@ -1,0 +1,27 @@
+{
+  "name": "my-electron-app",
+  "version": "28.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-linux": "electron-builder --linux"
+  },
+  "author": {
+    "name":"Raman",
+    "email":"ramanjangu01@gmail.com",
+    "link":"https://linkedin.com/in/raman-jangu"
+  },
+  "license": "RamanJangu",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  },
+  "dependencies": {
+    "codemirror": "^5.65.16"
+  },
+
+  
+
+
+}
