@@ -13,13 +13,13 @@
     "email":"ramanjangu01@gmail.com",
     "link":"https://linkedin.com/in/raman-jangu"
   },
-  "license": "RamanJangu",
+  "license": "",
   "devDependencies": {
     "electron": "^28.1.0"
   },
   "dependencies": {
     "codemirror": "^5.65.16"
-  },
+  }
 
   
 
