@@ -15,7 +15,8 @@
   },
   "license": "",
   "devDependencies": {
-    "electron": "^28.1.0"
+    "electron": "^28.1.0",
+    "electron-builder": "^22.11.5" 
   },
   "dependencies": {
     "codemirror": "^5.65.16"
